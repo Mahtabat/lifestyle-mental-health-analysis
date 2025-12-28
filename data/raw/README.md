@@ -13,5 +13,5 @@ The dataset includes variables such as:
 
 
 ## Notes
-- Findings are based on observational data
-- Results indicate association, not causation
+- Findings are based on observational data.
+- Results indicate association, not causation.
